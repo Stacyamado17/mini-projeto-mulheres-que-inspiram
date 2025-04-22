@@ -2,7 +2,7 @@
 
 ## ✨ Sobre o Projeto
 
-O projeto **"Mulheres que Inspiram"** é uma API desenvolvida com o objetivo de valorizar, celebrar e dar visibilidade às histórias de mulheres que marcaram (e continuam marcando) a história com sua coragem, inteligência, sensibilidade e resistência.
+O projeto **"Mulheres que Inspiram"** é uma API desenvolvida com o objetivo de valorizar, celebrar e dar visibilidade às histórias de mulheres que marcaram (e continuam marcando) a história com sua coragem, inteligência, sensibilidade e resistência, através da leitura de histórias contadas pelas perspectivas das próprias!
 
 Vivemos em uma sociedade onde, por muito tempo, as contribuições femininas foram silenciadas ou apagadas. Essa API nasce como uma ferramenta educacional e social que visa mudar essa realidade, incentivando o acesso a livros que contam histórias de mulheres inspiradoras — sejam elas cientistas, escritoras, ativistas, artistas, líderes ou figuras anônimas que impactaram suas comunidades.
 
@@ -25,8 +25,6 @@ A API possui 3 rotas principais:
 | `/livros/autora/:nome` | GET | Filtra por autora |
 | `/livros/categoria/:tema` | GET | Filtra por categoria ou área de atuação |
 
-⚙️ Extras:
-- CORS habilitado para consumo por outras aplicações.
 
 ## 🚀 Como esse projeto ajuda?
 
@@ -49,10 +47,10 @@ Abra uma issue ou mande um PR! Vamos juntas espalhar essas narrativas! 💜✨
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Stacyamado17/mini-projeto-mulheres-que-inspiram
 
 # Entre na pasta
-cd mulheres-que-inspiram
+cd leituras-que-inspiram
 
 # Instale as dependências
 npm install
