@@ -61,4 +61,4 @@ node index.js
 A API estará disponível em:
 🔗 http://localhost:3000
 
-Projeto desenvolvido com 💖 por Stacy Amado
+>Projeto desenvolvido com 💖 por Stacy Amado
